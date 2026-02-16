@@ -1,5 +1,8 @@
 # Real Estate Message Assistant
 
+![Real Estate Message Assistant Cover](assets/cover.png)
+
+
 ## Overview
 The Real Estate Message Assistant is an AI-powered tool designed to help real estate agents generate professional follow-up messages quickly and consistently.
 
