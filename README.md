@@ -26,7 +26,7 @@ The Real Estate Message Assistant allows agents to input:
 The AI then generates polished, human-sounding follow-up messages instantly, helping agents stay organized and responsive.
 
 ## Example Use Cases
-- Initial inquiry follow-up
+- Initial listing inquiry response
 - Post open house message to represented buyers
 - Post open house message to unrepresented buyer leads
 - Scheduling private showings
